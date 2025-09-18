@@ -36,3 +36,6 @@ O **Python Insights** é um projeto que utiliza Python e análise de dados para 
 ```bash
 git clone https://github.com/gui-fofinho/Python-Insights-Analisando-Dado
 
+
+Projeto desenvolvido no curso Hashtag Treinamentos.
+
